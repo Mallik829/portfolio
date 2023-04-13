@@ -3907,3 +3907,8 @@ input, select, textarea {
 			}
 
 		}
+
+.button{
+		font: times new roman;
+		font-size: 16;
+	}
