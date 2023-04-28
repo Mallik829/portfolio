@@ -3911,4 +3911,5 @@ input, select, textarea {
 		.button2{
 			font: times new roman;
 			font-size: 0.8em;
+			border-radius: 3em;
 		}
