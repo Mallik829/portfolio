@@ -3910,6 +3910,6 @@ input, select, textarea {
 
 		.button2{
 			font: times new roman;
-			font-size: 0.1em;
-			border-radius: 3em;
+			font-size: 0.75em;
+			border-radius: 2em;
 		}
